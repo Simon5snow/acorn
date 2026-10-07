@@ -40,7 +40,7 @@ No example labels were provided, so accuracy evaluation is not possible.
 | Route | Feasibility | Key Considerations / Risks |
 |---|---|---|
 | Label photo | Feasible today | PDPA compliance: consent, health data protection, and potential transfer of images outside Singapore if the API is hosted overseas. |
-| HealthHub screenshot | Potentially feasible | The patient transfers their own data, without requiring a partnership. To verify: Does HealthHub actually display the list of medications? |
+| HealthHub screenshot | Potentially feasible | The patient transfers their own data, without requiring a partnership.|
 | Direct NEHR access | Not feasible for a consumer app | The Health Information Act (passed January 12, 2026; scheduled to take effect in early 2027) restricts access to healthcare providers treating the patient. |
 | Clinical or pharmacy partnership | Feasible, but complex | The only route to official data. Requires a partnership/contract, takes months to establish, and involves cybersecurity compliance. |
 | Voice recognition | Technically easy | Medication names are often transcribed incorrectly. Better suited for corrections than initial data entry. |
