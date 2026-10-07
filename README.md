@@ -34,7 +34,7 @@ Request remained “pending” for more than 1 min seconds on a 547 Ko photo. No
 503 error after waiting 4.5 minutes;
 I should add a maximum wait time of 15 seconds with a clear message, spaced-out retry attempts, and a backup option or the phone's built-in OCR.
 
-No example labels were provided, so accuracy evaluation is not possible.
+No example labels were provided, so accuracy evaluation is not possible. I tried with photo I found on Google.
 
 # Route Table:
 | Route | Feasibility | Key Considerations / Risks |
