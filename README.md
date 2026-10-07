@@ -44,3 +44,5 @@ No example labels were provided, so accuracy evaluation is not possible.
 | Direct NEHR access | Not feasible for a consumer app | The Health Information Act (passed January 12, 2026; scheduled to take effect in early 2027) restricts access to healthcare providers treating the patient. |
 | Clinical or pharmacy partnership | Feasible, but complex | The only route to official data. Requires a partnership/contract, takes months to establish, and involves cybersecurity compliance. |
 | Voice recognition | Technically easy | Medication names are often transcribed incorrectly. Better suited for corrections than initial data entry. |
+
+I would go for HealthHub screenshot since it is pretty convenient for everyone. But only as the foundation, for private doctor or other medication a screenshot would be better and could be completed by the user very easily only after complying with ppda and the API terms of use.

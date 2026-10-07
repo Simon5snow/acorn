@@ -5,7 +5,7 @@ import 'package:image_picker/image_picker.dart';
 
 // Key passed at launch, never written in the code (never committed)
 const apiKey = String.fromEnvironment('GEMINI_KEY');
-const model = 'gemini-3.8-flash';
+const model = 'gemini-3.5-flash-lite';
 
 const prompt = '''
 You read a pharmacy medication label (Singapore). Extract ONLY what is printed.
